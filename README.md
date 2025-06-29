@@ -1,6 +1,6 @@
 # 🤖 GPT-3 Landing Page using ReactJS
 
-![Homepage](./src/assets/homepage.png)
+![Homepage](./src/assets/bank.png)
 
 A clean and responsive **GPT-3 landing page** built using **ReactJS**, inspired by AI and OpenAI-related UI patterns. Great for showcasing front-end skills with a modern component-based architecture.
 
